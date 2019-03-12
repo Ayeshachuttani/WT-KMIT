@@ -1,0 +1,19 @@
+var person=[{
+"firstName":"Ayesha",
+"lastName":"Chuttani",
+"age":20,
+"marks":[
+{english:23},{math:28}
+],
+"address":"hyd"
+}
+{
+"firstName":"Abc",
+"lastName":"Chc",
+"age":29,
+"marks":[
+{english:28},{math:26}
+],
+"address":"hyd"
+}
+]

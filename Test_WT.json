@@ -1,4 +1,4 @@
-var person=[{
+[{
 "firstName":"Ayesha",
 "lastName":"Chuttani",
 "age":20,
@@ -6,7 +6,7 @@ var person=[{
 {"english":23},{"math":28}
 ],
 "address":"hyd"
-}
+},
 {
 "firstName":"Abc",
 "lastName":"Chc",
